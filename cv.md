@@ -1,7 +1,9 @@
 [RSSCHOOL](app.rs.rschool)
 -----
+
 Gorshkov Vitalii
 ======
+
 Contacts:
 -----
 * __Tel__: +7 916 524 9346
