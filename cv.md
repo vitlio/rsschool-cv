@@ -1,5 +1,3 @@
-## [RSSCHOOL](app.rs.rschool)
-
 # Gorshkov Vitalii  
 
 ### Contacts:
