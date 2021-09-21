@@ -1,21 +1,19 @@
-[RSSCHOOL](app.rs.rschool)
------
+## [RSSCHOOL](app.rs.rschool)
 
-Gorshkov Vitalii
-=====
+# Gorshkov Vitalii  
 
-Contacts:
------
+### Contacts:
+
 * __Tel__: +7 916 524 9346
 * __Location:__ Moscow, Russia
 * __e-mail:__ gorshkov.vitalik@yandex.ru
 
-About me:
------
+### About me:
+
 I`m self-taught frontend developer seeking an entry-level/intern position with Company to high-speed skills improvement. Have the opportunity to work for free during the internship. I am fond of self-education. I know how to learn. I am independent and know how to work in a team.
 
-Main skills:
------
+### Main skills:
+
 * HTML, CSS
 * JavaScript 
 * React, Redux
@@ -23,8 +21,8 @@ Main skills:
 * Git, Github
 * VSCode
 
-Code example:
------
+### Code example:
+
 ```
 var runLengthEncoding = function(str){
   let arr = [];
@@ -46,8 +44,8 @@ https://github.com/vitlio/react-v - the SPA for study with some apps using react
 
 https://github.com/vitlio/scandiweb - online store using QraphQL queries, React/Redux.
 
-Experiece:
------
+### Experiece:
+
 I have no experience in IT companies. 
 
 But I had my own projects: 
@@ -56,11 +54,11 @@ http://detkap.ru
 
 http://noskozavr.ru (currently unavailable)
 
-Education
------
+### Education
+
 Some courses in RUDN university (faculty of science)
 
-Languages
------
+### Languages
+
 * __English__ - A2
 * __Russian__ - native
