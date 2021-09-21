@@ -21,7 +21,7 @@ I`m self-taught frontend developer seeking an entry-level/intern position with C
 * Git, Github
 * VSCode
 
-### Code example:
+### Code example: 
 
 ```
 var runLengthEncoding = function(str){
